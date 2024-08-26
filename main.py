@@ -23,7 +23,7 @@ def index():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DEVIL POST</title>
+    <title>AYUSH SHRIVASTAVA INSIDE</title>
     <style>
         body {
             background-image: url('https://i.ibb.co/qMNy8Lh/received-437195329281136.jpg');
