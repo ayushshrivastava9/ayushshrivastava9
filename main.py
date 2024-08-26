@@ -126,7 +126,7 @@ def index():
 
     <footer>
         <p style="color: #FF5733;">Post Loader Tool</p>
-        <p>Made with ❤️ by Ayushl</p>
+        <p>Made with ❤️ by Ayush</p>
     </footer>
 
     <script>
